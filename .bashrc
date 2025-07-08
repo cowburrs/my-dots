@@ -15,5 +15,8 @@ remember to do acpi -i burrs
 
 export PATH=$PATH:/home/burrs/.spicetify
 
+# kitty is terminal god
+export TERMCMD=kitty
+
 # nvim is my path and shit of course
 export EDITOR=nvim
