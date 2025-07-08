@@ -11,9 +11,11 @@ PS1='[\u@\h \W]\$ '
 alias discord='discord --enable-features=UseOzonePlatform --ozone-platform=wayland'
 alias neofetch='fastfetch'
 alias batlife='upower -i /org/freedesktop/UPower/devices/battery_BAT0'
-remember to do acpi -i burrs
+# remember to do acpi -i burrs
 
 export PATH=$PATH:/home/burrs/.spicetify
+
+bind "set completion-ignore-case on"
 
 # kitty is terminal god
 export TERMCMD=kitty
