@@ -35,4 +35,4 @@ function y() {
 # --- btop Setup ---
 alias top='btop'
 # --- hyprland Setup ---
-alias hyprland='prime-run hyprland'
+alias hypr='prime-run hyprland'
