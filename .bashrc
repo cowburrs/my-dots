@@ -22,3 +22,17 @@ export TERMCMD=kitty
 
 # nvim is my path and shit of course
 export EDITOR=nvim
+# --- Yazi Setup ---
+
+function y() {
+  local tmp="$(mktemp -t "yazi-cwd.XXXXXX")" cwd
+  yazi "$@" --cwd-file="$tmp"
+  IFS= read -r -d '' cwd <"$tmp"
+  [ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd"
+  rm -f -- "$tmp"
+}
+
+# --- btop Setup ---
+alias top='btop'
+# --- hyprland Setup ---
+alias hyprland='prime-run hyprland'
