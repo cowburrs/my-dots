@@ -5,9 +5,10 @@
   "IS_MAXIMIZED": true,
   "IS_MINIMIZED": false,
   "WINDOW_BOUNDS": {
-    "x": 22,
-    "y": 22,
-    "width": 940,
-    "height": 636
-  }
+    "x": 7,
+    "y": 7,
+    "width": 943,
+    "height": 1015
+  },
+  "DANGEROUS_ENABLE_DEVTOOLS_ONLY_ENABLE_IF_YOU_KNOW_WHAT_YOURE_DOING": true
 }

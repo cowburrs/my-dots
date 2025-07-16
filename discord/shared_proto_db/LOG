@@ -1,2 +1,3 @@
-2025/07/03-16:29:21.352 42f Creating DB /home/burrs/.config/discord/shared_proto_db since it was missing.
-2025/07/03-16:29:21.355 42f Reusing MANIFEST /home/burrs/.config/discord/shared_proto_db/MANIFEST-000001
+2025/07/16-16:25:53.392 cd1d Reusing MANIFEST /home/burrs/.config/discord/shared_proto_db/MANIFEST-000001
+2025/07/16-16:25:53.392 cd1d Recovering log #3
+2025/07/16-16:25:53.392 cd1d Reusing old log /home/burrs/.config/discord/shared_proto_db/000003.log 

@@ -1,0 +1,6 @@
+export DIR_hypr="$HOME/.config/hypr"
+export DIR_conf="$HOME/.config"
+export DIR_bashrc="$HOME/.config/bashrc"
+export DIR_repos="$HOME/Repositories"
+export DIR_yazi="$HOME/.config/yazi"
+export DIR_kitty="$HOME/.config/kitty"

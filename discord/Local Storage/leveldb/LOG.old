@@ -1,11 +1,5 @@
-2025/07/07-11:15:11.494 11d81 Reusing MANIFEST /home/burrs/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2025/07/07-11:15:11.507 11d81 Recovering log #28
-2025/07/07-11:15:11.526 11d81 Level-0 table #32: started
-2025/07/07-11:15:11.546 11d81 Level-0 table #32: 1558011 bytes OK
-2025/07/07-11:15:11.548 11d81 Delete type=0 #28
-2025/07/07-11:16:12.537 11d82 Level-0 table #35: started
-2025/07/07-11:16:12.538 11d82 Level-0 table #35: 49820 bytes OK
-2025/07/07-11:16:12.540 11d82 Delete type=0 #33
-2025/07/07-11:19:16.864 11d82 Level-0 table #37: started
-2025/07/07-11:19:16.921 11d82 Level-0 table #37: 1556643 bytes OK
-2025/07/07-11:19:16.922 11d82 Delete type=0 #34
+2025/07/16-16:25:32.042 cd1d Reusing MANIFEST /home/burrs/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/07/16-16:25:32.064 cd1d Recovering log #75
+2025/07/16-16:25:32.094 cd1d Level-0 table #78: started
+2025/07/16-16:25:32.133 cd1d Level-0 table #78: 1576529 bytes OK
+2025/07/16-16:25:32.135 cd1d Delete type=0 #75

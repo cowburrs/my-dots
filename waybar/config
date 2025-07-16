@@ -8,7 +8,6 @@
     "passthrough": false,
     "height": 41,
     "modules-left": [
-        "custom/os_button",
         "hyprland/workspaces",
         "wlr/taskbar"
     ],
@@ -125,10 +124,10 @@
             "warning": 30,
             "critical": 20
         },
-        "format": "{icon} {capacity}%",
+        "format-alt": "{icon} {capacity}%",
         "format-charging": " {capacity}%",
         "format-plugged": " {capacity}%",
-        "format-alt": "{time} {icon}",
+        "format": "{time} {icon}",
         "format-icons": [
             "󰂎",
             "󰁺",
