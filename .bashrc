@@ -14,6 +14,6 @@ source_dir() {
 }
 
 # source all in the bashrc directory
-source_dir ~/.config/bashrc/apps/
+source_dir ~/.config/bashrc/extra/
 source_dir ~/.config/bashrc/core/
 source_dir ~/.config/bashrc/plugins/
