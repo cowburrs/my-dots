@@ -1,5 +1,6 @@
 return {
 	"tris203/precognition.nvim",
+	version = ">=1.0.0",
 	--event = "VeryLazy",
 	opts = {
 		-- startVisible = true,
@@ -23,8 +24,12 @@ return {
 		--     PrevParagraph = { text = "{", prio = 8 },
 		--     NextParagraph = { text = "}", prio = 8 },
 		-- },
-		-- disabled_fts = {
-		--     "startify",
-		-- },
+		disabled_fts = {
+			"dashboard",
+			"neo-tree",
+			"TelescopePrompt",
+			"lazy",
+			"",
+		},
 	},
 }
