@@ -3,12 +3,15 @@
 #
 
 # get the bash config stuffs
+
 source_dir() {
   local dir="$1"
   [ -d "$dir" ] || return 1
 
   for file in "$dir"/*; do
-    [ -r "$file" ] || continue
+    # skip unreadable or non-regular files (e.g. directories, symlinks to dirs)
+    [ -r "$file" ] && [ -f "$file" ] || continue
+
     . "$file"
   done
 }
