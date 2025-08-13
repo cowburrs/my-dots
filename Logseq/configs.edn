@@ -1,1 +1,0 @@
-{:git/disable-auto-commit? false, :git/commit-on-close? true}
