@@ -1,1 +1,1 @@
-alias yay="paru"
+alias yay="paru --sudoloop"

@@ -1,2 +1,3 @@
-2025/08/06-18:13:44.132 1ef54 Creating DB /home/burrs/.config/Logseq/IndexedDB/file__0.indexeddb.leveldb since it was missing.
-2025/08/06-18:13:44.134 1ef54 Reusing MANIFEST /home/burrs/.config/Logseq/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/08/13-11:37:56.302 2bd25 Reusing MANIFEST /home/burrs/.config/Logseq/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2025/08/13-11:37:56.302 2bd25 Recovering log #3
+2025/08/13-11:37:56.303 2bd25 Reusing old log /home/burrs/.config/Logseq/IndexedDB/file__0.indexeddb.leveldb/000003.log 

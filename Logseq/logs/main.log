@@ -3,3 +3,99 @@
 [2025-08-06 18:13:43.721] [info] set proxy to {:type "system"}
 [2025-08-06 18:13:47.299] [debug] :electron.handler/watch-dir {:path "/home/burrs/.logseq/config"}
 [2025-08-06 18:30:00.635] [debug] window-all-closed Quitting...
+[2025-08-12 21:03:38.834] [info] Logseq App(0.10.12) Starting... 
+[2025-08-12 21:03:38.842] [info] restore proxy settings {:type "system"}
+[2025-08-12 21:03:38.843] [info] set proxy to {:type "system"}
+[2025-08-12 21:03:42.528] [debug] :electron.handler/watch-dir {:path "/home/burrs/.logseq/config"}
+[2025-08-12 21:04:29.319] [info] :electron.handler/open-dir open folder selection dialog
+[2025-08-12 21:04:37.573] [debug] :electron.handler/open-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-12 21:04:37.911] [debug] :electron.handler/watch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-12 21:04:57.840] [debug] [Marketplace] === Installing: catppuccin/logseq ===
+[2025-08-12 21:04:58.356] [debug] [Marketplace] ERR: valid github api -  Error: Unauthorized
+    at /opt/logseq-desktop/resources/app/electron.js:14346:13
+    at Function.$G__108207__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4107:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13066:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-08-12 21:04:58.696] [debug] [Marketplace] Release latest: https://api.github.com/repos/catppuccin/logseq/releases/latest :status 200
+[2025-08-12 21:04:58.710] [debug] [Marketplace] Release latest: v0.6.4  from https://api.github.com/repos/catppuccin/logseq/releases/assets/200087122
+[2025-08-12 21:04:59.272] [debug] [Marketplace] [Updated DONE] v0.6.4
+[2025-08-12 21:05:04.470] [debug] [Marketplace] === Installing: haydenull/logseq-plugin-git ===
+[2025-08-12 21:05:05.275] [debug] [Marketplace] Release latest: https://api.github.com/repos/haydenull/logseq-plugin-git/releases/latest :status 200
+[2025-08-12 21:05:05.285] [debug] [Marketplace] Release latest: v1.7.0  from https://api.github.com/repos/haydenull/logseq-plugin-git/releases/assets/169143721
+[2025-08-12 21:05:05.979] [debug] [Marketplace] [Updated DONE] v1.7.0
+[2025-08-12 21:05:14.753] [debug] window-all-closed Quitting...
+[2025-08-12 21:05:17.129] [info] Logseq App(0.10.12) Starting... 
+[2025-08-12 21:05:17.137] [info] restore proxy settings {:type "system"}
+[2025-08-12 21:05:17.138] [info] set proxy to {:type "system"}
+[2025-08-12 21:05:19.451] [debug] :electron.handler/watch-dir {:path "/home/burrs/.logseq/config"}
+[2025-08-12 21:05:19.536] [debug] :electron.handler/unwatch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-12 21:05:19.536] [debug] :electron.handler/watch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-12 21:05:49.472] [debug] window-all-closed Quitting...
+[2025-08-12 21:16:56.740] [info] Logseq App(0.10.12) Starting... 
+[2025-08-12 21:16:56.745] [info] restore proxy settings {:type "system"}
+[2025-08-12 21:16:56.746] [info] set proxy to {:type "system"}
+[2025-08-12 21:16:59.201] [debug] :electron.handler/watch-dir {:path "/home/burrs/.logseq/config"}
+[2025-08-12 21:16:59.287] [debug] :electron.handler/unwatch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-12 21:16:59.288] [debug] :electron.handler/watch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-12 21:17:00.874] [debug] window-all-closed Quitting...
+[2025-08-13 11:34:11.178] [info] Logseq App(0.10.13) Starting... 
+[2025-08-13 11:34:11.191] [info] restore proxy settings {:type "system"}
+[2025-08-13 11:34:11.192] [info] set proxy to {:type "system"}
+[2025-08-13 11:34:13.672] [debug] :electron.handler/watch-dir {:path "/home/burrs/.logseq/config"}
+[2025-08-13 11:34:13.698] [debug] :electron.handler/unwatch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-13 11:34:13.699] [debug] :electron.handler/watch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-13 11:34:14.332] [debug] [Marketplace] === Updating: haydenull/logseq-plugin-git ===
+[2025-08-13 11:34:14.964] [debug] [Marketplace] ERR: valid github api -  Error: Unauthorized
+    at /opt/logseq-desktop/resources/app/electron.js:14347:13
+    at Function.$G__108229__1$$ [as $cljs$core$IFn$_invoke$arity$1$] (/opt/logseq-desktop/resources/app/electron.js:4107:175)
+    at /opt/logseq-desktop/resources/app/electron.js:13066:80
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-08-13 11:34:15.753] [debug] [Marketplace] Release latest: https://api.github.com/repos/haydenull/logseq-plugin-git/releases/latest :status 200
+[2025-08-13 11:34:15.800] [debug] [Marketplace] Release latest: v1.7.0  from https://api.github.com/repos/haydenull/logseq-plugin-git/releases/assets/169143721
+[2025-08-13 11:34:15.802] [debug] [Marketplace] Release compare: v1.7.0 (current) >  v1.7.0 (latest)
+[2025-08-13 11:34:15.803] [debug] [Marketplace] Update skip: no new version
+[2025-08-13 11:34:16.320] [debug] [Marketplace] === Updating: catppuccin/logseq ===
+[2025-08-13 11:34:16.727] [debug] [Marketplace] Release latest: https://api.github.com/repos/catppuccin/logseq/releases/latest :status 200
+[2025-08-13 11:34:16.736] [debug] [Marketplace] Release latest: v0.6.4  from https://api.github.com/repos/catppuccin/logseq/releases/assets/200087122
+[2025-08-13 11:34:16.737] [debug] [Marketplace] Release compare: v0.6.4 (current) >  v0.6.4 (latest)
+[2025-08-13 11:34:16.738] [debug] [Marketplace] Update skip: no new version
+[2025-08-13 11:36:37.026] [debug] window-all-closed Quitting...
+[2025-08-13 11:37:05.126] [info] Logseq App(0.10.13) Starting... 
+[2025-08-13 11:37:05.137] [info] restore proxy settings {:type "system"}
+[2025-08-13 11:37:05.137] [info] set proxy to {:type "system"}
+[2025-08-13 11:37:07.484] [debug] :electron.handler/watch-dir {:path "/home/burrs/.logseq/config"}
+[2025-08-13 11:37:07.627] [debug] :electron.handler/unwatch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-13 11:37:07.628] [debug] :electron.handler/watch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-13 11:37:08.042] [error] IPC error:  {:event #object[Event [object Object]], :args #js ["readdir" "/home/burrs/Repositories/logseq"]} Error: ENOENT: no such file or directory, scandir '/home/burrs/Repositories/logseq'
+    at Object.readdirSync (node:fs:1507:26)
+    at t.readdirSync (node:electron/js2c/node_init:2:13703)
+    at /opt/logseq-desktop/resources/app/electron.js:14000:64
+    at /opt/logseq-desktop/resources/app/electron.js:5000:28
+    at $JSCompiler_StaticMethods_sval$$ (/opt/logseq-desktop/resources/app/electron.js:3249:301)
+    at $JSCompiler_prototypeAlias$$.$cljs$core$ISeqable$_seq$arity$1$ (/opt/logseq-desktop/resources/app/electron.js:3323:3)
+    at $cljs$core$seq$$ (/opt/logseq-desktop/resources/app/electron.js:1524:40)
+    at /opt/logseq-desktop/resources/app/electron.js:4971:54
+    at $JSCompiler_StaticMethods_sval$$ (/opt/logseq-desktop/resources/app/electron.js:3249:301)
+    at $JSCompiler_prototypeAlias$$.$cljs$core$ISeqable$_seq$arity$1$ (/opt/logseq-desktop/resources/app/electron.js:3323:3)
+[2025-08-13 11:37:38.313] [debug] :electron.handler/watch-dir {:path "/home/burrs/.logseq/config"}
+[2025-08-13 11:37:38.324] [debug] :electron.handler/unwatch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-13 11:37:38.325] [debug] :electron.handler/watch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-13 11:37:38.474] [error] IPC error:  {:event #object[Event [object Object]], :args #js ["readdir" "/home/burrs/Repositories/logseq"]} Error: ENOENT: no such file or directory, scandir '/home/burrs/Repositories/logseq'
+    at Object.readdirSync (node:fs:1507:26)
+    at t.readdirSync (node:electron/js2c/node_init:2:13703)
+    at /opt/logseq-desktop/resources/app/electron.js:14000:64
+    at /opt/logseq-desktop/resources/app/electron.js:5000:28
+    at $JSCompiler_StaticMethods_sval$$ (/opt/logseq-desktop/resources/app/electron.js:3249:301)
+    at $JSCompiler_prototypeAlias$$.$cljs$core$ISeqable$_seq$arity$1$ (/opt/logseq-desktop/resources/app/electron.js:3323:3)
+    at $cljs$core$seq$$ (/opt/logseq-desktop/resources/app/electron.js:1524:40)
+    at /opt/logseq-desktop/resources/app/electron.js:4971:54
+    at $JSCompiler_StaticMethods_sval$$ (/opt/logseq-desktop/resources/app/electron.js:3249:301)
+    at $JSCompiler_prototypeAlias$$.$cljs$core$ISeqable$_seq$arity$1$ (/opt/logseq-desktop/resources/app/electron.js:3323:3)
+[2025-08-13 11:37:45.749] [debug] window-all-closed Quitting...
+[2025-08-13 11:37:55.829] [info] Logseq App(0.10.13) Starting... 
+[2025-08-13 11:37:55.839] [info] restore proxy settings {:type "system"}
+[2025-08-13 11:37:55.840] [info] set proxy to {:type "system"}
+[2025-08-13 11:37:59.315] [debug] :electron.handler/watch-dir {:path "/home/burrs/.logseq/config"}
+[2025-08-13 11:37:59.351] [debug] :electron.handler/unwatch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-13 11:37:59.352] [debug] :electron.handler/watch-dir {:path "/home/burrs/Repositories/logseq"}
+[2025-08-13 11:38:18.611] [info] :electron.git/set-auto-commit-interval 60

@@ -13,6 +13,14 @@ vim.keymap.set("i", "<C-BS>", "<C-W>", { noremap = true })
 vim.keymap.set("n", "<Esc>", "<cmd>nohlsearch<CR>")
 vim.keymap.set("n", "<leader>q", vim.diagnostic.setloclist, { desc = "Open diagnostic [Q]uickfix list" }) -- Diagnostic keymaps
 
+-- tabs in newovim
+vim.keymap.set("n", "<C-t>", "<cmd>tabnew<CR>")
+vim.keymap.set("n", "<Tab>", "<cmd>tabnext<CR>")
+vim.keymap.set("n", "<S-Tab>", "<cmd>-tabnext<CR>")
+
+-- making shift q exit all
+vim.keymap.set("n", "<S-q>", "<cmd>qall<CR>")
+
 vim.keymap.set("n", "q", ":q<CR>")
 vim.keymap.set({ "n", "i" }, "<C-s>", "<Cmd>w<CR>")
 
