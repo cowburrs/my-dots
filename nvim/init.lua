@@ -5,6 +5,7 @@ I hope you enjoy your Neovim journey,
 - TJ
 
 P.S. You can delete this when you're done too. It's your config now! :)
+No teej, I will not. Thanks for helping me
 --]]
 
 -- Set <space> as the leader key

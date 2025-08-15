@@ -21,6 +21,13 @@ vim.keymap.set("n", "<S-Tab>", "<cmd>-tabnext<CR>")
 -- making shift q exit all
 vim.keymap.set("n", "<S-q>", "<cmd>qall<CR>")
 
+-- CTRL S save like a normal human being
+vim.keymap.set({ "n", "i" }, "<S-q>", "<cmd>:w<CR>")
+
+-- Move without cursor
+vim.keymap.set({ "n", "i" }, "<C-e>", "5<C-e>")
+vim.keymap.set({ "n", "i" }, "<C-y>", "5<C-y>")
+
 vim.keymap.set("n", "q", ":q<CR>")
 vim.keymap.set({ "n", "i" }, "<C-s>", "<Cmd>w<CR>")
 
