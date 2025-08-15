@@ -24,12 +24,26 @@ vim.keymap.set("n", "<S-q>", "<cmd>qall<CR>")
 -- CTRL S save like a normal human being
 vim.keymap.set({ "n", "i" }, "<S-q>", "<cmd>:w<CR>")
 
+-- Lazy Open
+vim.keymap.set("n", "<leader>l", "<cmd>:Lazy<CR>", { desc = "[L]azy" })
+
 -- Move without cursor
 vim.keymap.set({ "n", "i" }, "<C-e>", "5<C-e>")
 vim.keymap.set({ "n", "i" }, "<C-y>", "5<C-y>")
 
 vim.keymap.set("n", "q", ":q<CR>")
 vim.keymap.set({ "n", "i" }, "<C-s>", "<Cmd>w<CR>")
+
+-- Send notification
+vim.keymap.set("n", "<leader>n", function()
+	vim.notify("Hello from notify!", vim.log.levels.INFO, { title = "Test Notification" })
+end, { desc = "Send Test [N]otification" })
+
+-- Change buffer size with a simple keybind.....
+vim.keymap.set("n", "<A-S-h>", "<cmd>vertical resize +2<CR>")
+vim.keymap.set("n", "<A-S-l>", "<cmd>vertical resize -2<CR>")
+vim.keymap.set("n", "<A-S-j>", "<cmd>resize -2<CR>")
+vim.keymap.set("n", "<A-S-k>", "<cmd>resize +2<CR>")
 
 -- Exit terminal mode in the builtin terminal with a shortcut that is a bit easier
 -- for people to discover. Otherwise, you normally need to press <C-\><C-n>, which
