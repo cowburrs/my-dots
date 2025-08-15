@@ -1,3 +1,5 @@
+[flavor]
+dark = "catppuccin-macchiato"
 [mgr]
 cwd = { fg = "#8bd5ca" }
 
@@ -19,7 +21,7 @@ count_selected = { fg = "#24273a", bg = "#c6a0f6" }
 border_symbol = "│"
 border_style  = { fg = "#8087a2" }
 
-syntect_theme = "~/.config/yazi/macchiato.tmTheme"
+syntect_theme = "~/.config/yazi/Catppuccin-macchiato.tmTheme"
 
 [tabs]
 active   = { fg = "#24273a", bg = "#cad3f5", bold = true }
@@ -36,8 +38,8 @@ unset_main  = { fg = "#24273a", bg = "#f0c6c6", bold = true }
 unset_alt   = { fg = "#f0c6c6", bg = "#363a4f"}
 
 [status]
-separator_open  = ""
-separator_close = ""
+sep_left  = { open = "", close = "" }
+sep_right = { open = "", close = "" }
 
 progress_label  = { fg = "#ffffff", bold = true }
 progress_normal = { fg = "#8aadf4", bg = "#494d64" }
