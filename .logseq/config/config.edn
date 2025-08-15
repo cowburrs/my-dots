@@ -9,8 +9,12 @@
 ;;   {:shortcuts {:ui/toggle-theme "t z"
 ;;                :ui/toggle-brackets "t b"}}
 {:shortcuts {:auto-complete/complete ["enter" "ctrl+y"]
+ :go/graph-view []
  :editor/move-block-up ["alt+shift+up" "alt+k"]
  :editor/move-block-down ["alt+shift+down" "alt+j"]
- :plugin.logseq-vim-shortcuts/vim-shortcut-copy-current-block-content-0 []
- :editor/copy-text ["mod+shift+c" "y y"]}
+ :editor/outdent ["shift+tab" "shift+, shift+,"]
+ :editor/copy-text ["mod+shift+c" "y y"]
+ :editor/indent ["tab" "shift+. shift+."]
+ :plugin.logseq-automatic-linker/$shortcut$mod_p []
+ :plugin.logseq-vim-shortcuts/vim-shortcut-copy-current-block-content-0 []}
 }
