@@ -40,7 +40,7 @@ return {
 		-- and remove the ones you won't use
 		{
 			"<leader>me",
-			":Tfm<CR>",
+			"<CMD>Tfm<CR>",
 			desc = "TF[M] [E]xplorer",
 		},
 		{
@@ -50,17 +50,17 @@ return {
 		},
 		{
 			"<leader>mh",
-			":TfmSplit<CR>",
+			"<CMD>TfmSplit<CR>",
 			desc = "TF[M] - [H]orizontal split",
 		},
 		{
 			"<leader>mv",
-			":TfmVsplit<CR>",
+			"<CMD>TfmVsplit<CR>",
 			desc = "TF[M] - [V]ertical split",
 		},
 		{
 			"<leader>mt",
-			":TfmTabedit<CR>",
+			"<CMD>TfmTabedit<CR>",
 			desc = "TF[M] - new [T]ab",
 		},
 	},

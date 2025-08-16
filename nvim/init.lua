@@ -28,6 +28,9 @@ require("core.lazy-bootstrap")
 -- [[ Configure and install plugins ]]
 require("core.lazy-plugins")
 
+-- [[ Extra stuff actually ]]
+require("extra.relabs")
+
 -- [[ Source all from extra ]]
 local files = vim.api.nvim_get_runtime_file("lua/extra/*.lua", true)
 

@@ -4,6 +4,8 @@
 --  For more options, you can see `:help option-list`
 
 vim.o.number = true -- Make line numbers default
+vim.o.relativenumber = true
+vim.o.signcolumn = "number"
 -- You can also add relative line numbers, to help with jumping.
 --  Experiment for yourself to see if you like it!
 -- vim.o.relativenumber = true

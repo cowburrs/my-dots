@@ -13,7 +13,7 @@ return {
 		"rcarriga/nvim-notify",
 	},
 	keys = {
-		{ "<leader>o", "", desc = "n[O]ice (notifications and stuff)" },
+		{ "<leader>n", "", desc = "[N]oice (notifications and stuff)" },
 		{
 			"<S-Enter>",
 			function()
@@ -23,35 +23,35 @@ return {
 			desc = "Redirect Cmdline",
 		},
 		{
-			"<leader>ol",
+			"<leader>nl",
 			function()
 				require("noice").cmd("last")
 			end,
-			desc = "Noice Last Message",
+			desc = "[N]oice [L]ast Message",
 		},
 		{
-			"<leader>oh",
+			"<leader>nh",
 			function()
 				require("noice").cmd("history")
 			end,
-			desc = "Noice History",
+			desc = "[N]oice [H]istory",
 		},
 		{
-			"<leader>oa",
+			"<leader>na",
 			function()
 				require("noice").cmd("all")
 			end,
-			desc = "Noice All",
+			desc = "[N]oice [A]ll",
 		},
 		{
-			"<leader>od",
+			"<leader>nd",
 			function()
 				require("noice").cmd("dismiss")
 			end,
-			desc = "Dismiss All",
+			desc = "[N]oice [D]ismiss All",
 		},
 		{
-			"<leader>ot",
+			"<leader>nt",
 			function()
 				require("noice").cmd("pick")
 			end,

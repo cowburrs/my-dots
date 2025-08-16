@@ -31,13 +31,13 @@ vim.keymap.set("n", "<leader>l", "<cmd>:Lazy<CR>", { desc = "[L]azy" })
 vim.keymap.set({ "n", "i" }, "<C-e>", "5<C-e>")
 vim.keymap.set({ "n", "i" }, "<C-y>", "5<C-y>")
 
-vim.keymap.set("n", "q", ":q<CR>")
+vim.keymap.set("n", "q", "<cmd>q<CR>")
 vim.keymap.set({ "n", "i" }, "<C-s>", "<Cmd>w<CR>")
 
 -- Send notification
-vim.keymap.set("n", "<leader>n", function()
+vim.keymap.set("n", "<leader>nn", function()
 	vim.notify("Hello from notify!", vim.log.levels.INFO, { title = "Test Notification" })
-end, { desc = "Send Test [N]otification" })
+end, { desc = "Send Test [N]otificatio[N]" })
 
 -- Change buffer size with a simple keybind.....
 vim.keymap.set("n", "<A-S-h>", "<cmd>vertical resize +2<CR>")
