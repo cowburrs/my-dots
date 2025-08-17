@@ -53,6 +53,14 @@ return {
 					},
 					{
 						action = function()
+							vim.api.nvim_input("<cmd>Tfm<cr>")
+						end,
+						desc = " File manager",
+						icon = " ",
+						key = "m",
+					},
+					{
+						action = function()
 							vim.api.nvim_input("<cmd>qa<cr>")
 						end,
 						desc = " Quit",
