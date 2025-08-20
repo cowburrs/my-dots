@@ -2,8 +2,8 @@
 --  See `:help vim.keymap.set()`
 --
 -- Move current line up or down in normal mode
-vim.keymap.set("n", "<A-j>", ":m .+1<CR>==")
-vim.keymap.set("n", "<A-k>", ":m .-2<CR>==")
+vim.keymap.set("n", "<A-j>", "<cmd>m .+1<CR>==")
+vim.keymap.set("n", "<A-k>", "<cmd>m .-2<CR>==")
 
 -- make ctrl backspace work
 vim.keymap.set("i", "<C-BS>", "<C-W>", { noremap = true })

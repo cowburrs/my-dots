@@ -56,7 +56,7 @@ return {
 							vim.api.nvim_input("<cmd>Tfm<cr>")
 						end,
 						desc = " File manager",
-						icon = " ",
+						icon = " ",
 						key = "m",
 					},
 					{

@@ -10,6 +10,11 @@ vim.o.signcolumn = "number"
 --  Experiment for yourself to see if you like it!
 -- vim.o.relativenumber = true
 
+-- Fold methods, can you imagine I might have never found these out?
+vim.o.foldmethod = "indent"
+vim.o.foldlevel = 0
+vim.o.foldlevelstart = 4
+
 -- Enable mouse mode, can be useful for resizing splits for example!
 vim.o.mouse = "a"
 

@@ -16,6 +16,25 @@ vim.g.maplocalleader = " "
 
 vim.g.have_nerd_font = true -- Set to true if you have a Nerd Font installed and selected in the terminal
 
+local function scandir(directory)
+	local i, t = 0, {}
+	for _, filename in ipairs(vim.fn.readdir(directory)) do
+		i = i + 1
+		t[i] = filename
+	end
+	return t
+end
+
+local function requiredir(directory)
+	directory = vim.fn.expand(directory) -- expand ~
+	for _, filename in ipairs(scandir(directory)) do
+		if filename ~= "." and filename ~= ".." then
+			-- vim.notify(filename, vim.log.levels.INFO, { title = "Test Notification" })
+			dofile(directory .. "/" .. filename)
+		end
+	end
+end
+
 -- [[ Setting options ]]
 require("core.options")
 
@@ -28,11 +47,16 @@ require("core.lazy-bootstrap")
 -- [[ Configure and install plugins ]]
 require("core.lazy-plugins")
 
--- [[ Extra stuff actually ]]
-require("extra.relabs")
-
 -- [[ Source all from extra ]]
-local files = vim.api.nvim_get_runtime_file("lua/extra/*.lua", true)
+requiredir("~/.config/nvim/lua/extra")
 
+-- for _, i in pairs(scandir("lua/extra")) do
+-- 	if i ~= "." and i ~= ".." then
+-- 		vim.notify(i, vim.log.levels.INFO, { title = "Test Notification" })
+-- 	end
+-- end
+
+-- test notification down here to copy and paste
+-- vim.notify(i, vim.log.levels.INFO, { title = "Test Notification" })
 -- The line beneath this is called `modeline`. See `:help modeline`
 -- vim: ts=2 sts=2 sw=2 et

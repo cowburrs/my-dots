@@ -1,1 +1,2 @@
 -- I will definitelly get this to work
+-- vim.notify("Hello from notify!", vim.log.levels.INFO, { title = "Doth this shit work" })

@@ -1,6 +1,7 @@
 return {
 	"folke/noice.nvim",
 	event = "VeryLazy",
+	priority = 100, -- needs to be loaded in first
 	opts = {
 		-- add any options here
 	},
