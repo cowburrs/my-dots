@@ -13,7 +13,7 @@ vim.o.signcolumn = "number"
 -- Fold methods, can you imagine I might have never found these out?
 vim.o.foldmethod = "indent"
 vim.o.foldlevel = 0
-vim.o.foldlevelstart = 4
+vim.o.foldlevelstart = 99
 
 -- Enable mouse mode, can be useful for resizing splits for example!
 vim.o.mouse = "a"
