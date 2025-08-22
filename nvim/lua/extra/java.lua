@@ -8,7 +8,7 @@ vim.api.nvim_create_autocmd("BufNewFile", {
 				" * " .. filename,
 				" */",
 				"public class " .. filename .. " {",
-				"",
+				"    ",
 				"    public static void main(String[] args) {",
 				"        ",
 				"    }",

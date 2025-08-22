@@ -84,3 +84,23 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 		vim.hl.on_yank()
 	end,
 })
+-- Yank Diagnostic
+vim.keymap.set("n", "<leader>yd", function()
+	local line = vim.api.nvim_win_get_cursor(0)[1]
+	local buf = vim.diagnostic.open_float()
+	if not buf then
+		vim.notify(("No diagnostics on line %s"):format(line), vim.log.levels.ERROR)
+		return
+	end
+
+	local lines = vim.api.nvim_buf_get_lines(buf, 0, -1, true)
+
+	if vim.fn.setreg("+", lines) ~= 0 then
+		vim.notify(("An error happened while trying to copy the diagnostics on line %s"):format(line))
+		return
+	end
+
+	vim.notify(([[Diagnostics from line %s copied to clipboard.
+
+%s]]):format(line, vim.fn.getreg("+")))
+end, { desc = "[Y]ank [D]iagnostic" })
