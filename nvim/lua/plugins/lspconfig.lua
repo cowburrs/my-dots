@@ -221,10 +221,7 @@ return {
 			local servers = {
 				jdtls = {},
 				pyright = {},
-				csharp_ls = {
-					root_dir = require("lspconfig").util.root_pattern("*.sln", "*.csproj"),
-				},
-				-- csharp_ls = {},
+				csharp_ls = {},
 				-- omnisharp = {},
 				-- omnisharp_mono = {},
 				bashls = {},
