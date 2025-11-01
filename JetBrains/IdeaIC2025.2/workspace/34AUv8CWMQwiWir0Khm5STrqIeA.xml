@@ -1,0 +1,389 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="programming" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="3ou43by8dpfha" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2Sem/27lesson/example/src/main/java/SqliteDemo.java" file-id="2095" managing-fs="1760656060288">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="394">
+              <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"SqliteDemo.java","foregroundColor":-1536119,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e88f89"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,80,10,31,102,105,108,101,84,121,112,101,115,47,106,97,118,97,79,117,116,115,105,100,101,83,111,117,114,99,101,46,115,118,103,18,24,101,120,112,117,105,47,102,105,108,101,84,121,112,101,115,47,106,97,118,97,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-11,-102,-33,91,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1760656526887
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="1" lastUsage="1760656526889" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/burrs/Repositories/School/programming}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/burrs/Repositories/School/programming}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="programming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/burrs/Repositories/School/programming}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/27lesson}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="programming" />
+            <item name="programming" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="programming" />
+              <item name="dir{file:///home/burrs/Repositories/School/programming}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.idea" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".idea" />
+                <item name="dir{file:///home/burrs/Repositories/School/programming/.idea}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/1Sem" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="1Sem" />
+                <item name="dir{file:///home/burrs/Repositories/School/programming/1Sem}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/2Sem" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="2Sem" />
+                <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/01lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="01lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/01lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/01test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="01test" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/01test}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/02lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="02lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/02lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/02test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="02test" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/02test}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/03lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="03lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/03lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/04lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="04lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/04lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/05lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="05lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/05lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/06lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="06lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/06lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/07lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="07lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/07lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/08lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="08lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/08lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/09lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="09lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/09lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/10lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="10lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/10lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/11lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="11lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/11lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/12lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="12lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/12lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/13lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="13lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/13lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/14lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="14lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/14lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/15lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="15lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/15lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/16lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="16lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/16lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/17lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="17lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/17lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/18lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="18lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/18lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/19lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="19lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/19lesson}" type="462c0819:PsiDirectoryNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/2Sem/27lesson" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="27lesson" />
+                  <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/27lesson}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/2Sem/27lesson/example" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="example" />
+                    <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/27lesson/example}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/2Sem/27lesson/Test" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Test" />
+                    <item name="dir{file:///home/burrs/Repositories/School/programming/2Sem/27lesson/Test}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" id="Structure" order="0" sideWeight="0.499499" side_tool="true" visible="true" weight="0.32994792" />
+      <window_info id="Commit" order="1" side_tool="true" weight="0.32994792" />
+      <window_info id="Pull Requests" order="2" sideWeight="0.49947807" side_tool="true" weight="0.32994792" />
+      <window_info content_ui="combo" id="Project" order="3" sideWeight="0.50050104" weight="0.32994792" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights left="0.32994792" />
+    </layoutV2>
+    <recentWindows>
+      <value>Structure</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Pull Requests</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" width="1920" height="1030" key="FileChooserDialogImpl" timestamp="1760656603017">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1920" height="1030" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1760656603017" />
+    <state x="454" y="165" key="SettingsEditor" timestamp="1760656400530">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="454" y="165" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1760656400530" />
+    <state x="6" y="6" width="948" height="1017" key="new project wizard" timestamp="1760656614091">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="6" y="6" width="948" height="1017" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1760656614091" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/2Sem/27lesson/example/src/main/java/SqliteDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="50" column="19" selection-start-line="50" selection-start-column="19" selection-end-line="50" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

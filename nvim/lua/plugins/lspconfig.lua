@@ -222,6 +222,8 @@ return {
 				jdtls = {},
 				pyright = {},
 				csharp_ls = {},
+				latexindent = {},
+				textlsp = {},
 				-- omnisharp = {},
 				-- omnisharp_mono = {},
 				bashls = {},

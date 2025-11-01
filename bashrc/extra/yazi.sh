@@ -7,4 +7,4 @@ function y() {
   [ -n "$cwd" ] && [ "$cwd" != "$PWD" ] && builtin cd -- "$cwd"
   rm -f -- "$tmp"
 }
-alias yazi="y"
+# alias yazi="y"

@@ -1,0 +1,65 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="JAVA" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "MarketplacePluginsSearchHistory": "catppuc\ncatpp\ncatp\nv",
+    "NewProjectWizard.generateOnboardingTips": "true",
+    "NewProjectWizard.groupIdState": "org.example",
+    "PluginConfigurable.selectionTab": "1",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "SettingsSearchHistory": "source\nSp\nvim",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.Sync.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "build.toolwindow.run.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "Maven",
+    "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "252.26830.84",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.onboarding.tips.debug.panel.got.it": "1",
+    "ide.islands.ab2": "true",
+    "idea.islands.enabled": "true",
+    "installed.kotlin.plugin.version": "252.26830.84-IJ",
+    "jdk.selected.JAVA_MODULE": "25",
+    "last_opened_file_path": "/home/burrs/Repositories/School",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "onboarding.generation.number": "4",
+    "previousColorScheme": "_@user_Catppuccin Macchiato",
+    "project.wizard.group": "NPW.simple-module.Java",
+    "registry.to.advanced.settings.migration.build": "IC-252.26830.84",
+    "terminal.gen.one.option.visible": "false",
+    "terminal.is.new.user": "true"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/burrs/Repositories/School/programming/2Sem/29lesson/NotSure",
+      "/home/burrs/Repositories/School/programming/2Sem/29lesson",
+      "/home/burrs/Repositories/School/programming/2Sem/26lesson",
+      "/home/burrs/Repositories/School",
+      "/home/burrs/Repositories/School/programming/2Sem/27lesson/Test",
+      "/home/burrs/Repositories/School/programming"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

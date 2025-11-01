@@ -8,10 +8,10 @@ vim.api.nvim_create_autocmd("BufNewFile", {
 				" * " .. filename,
 				" */",
 				"public class " .. filename .. " {",
-				"   ",
-				"   public static void main(String[] args) {",
-				"      ",
-				"   }",
+				"    ",
+				"    public static void main(String[] args) {",
+				"        ",
+				"    }",
 				"}",
 			}
 			vim.api.nvim_buf_set_lines(0, 0, -1, false, lines)

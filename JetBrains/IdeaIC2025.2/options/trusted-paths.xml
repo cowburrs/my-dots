@@ -1,0 +1,14 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Repositories/School/programming" value="true" />
+        <entry key="$USER_HOME$/Repositories/School/programming/2Sem/26lesson" value="true" />
+        <entry key="$USER_HOME$/Repositories/School/programming/2Sem/27lesson/Test/untitled" value="true" />
+        <entry key="$USER_HOME$/Repositories/School/programming/2Sem/27lesson/Test/untitled1" value="true" />
+        <entry key="$USER_HOME$/Repositories/School/programming/2Sem/29lesson" value="true" />
+        <entry key="$USER_HOME$/Repositories/School/programming/2Sem/29lesson/NotSure" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

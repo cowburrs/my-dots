@@ -22,7 +22,7 @@ vim.keymap.set("n", "<S-Tab>", "<cmd>-tabnext<CR>")
 vim.keymap.set("n", "<S-q>", "<cmd>qall<CR>")
 
 -- CTRL S save like a normal human being
-vim.keymap.set({ "n", "i" }, "<S-q>", "<cmd>:w<CR>")
+vim.keymap.set({ "n", "i" }, "<C-s>", "<cmd>:w<CR>")
 
 -- Lazy Open
 vim.keymap.set("n", "<leader>l", "<cmd>:Lazy<CR>", { desc = "[L]azy" })
