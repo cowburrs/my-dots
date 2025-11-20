@@ -224,6 +224,7 @@ return {
 				csharp_ls = {},
 				latexindent = {},
 				textlsp = {},
+				cssls = {},
 				-- omnisharp = {},
 				-- omnisharp_mono = {},
 				bashls = {},

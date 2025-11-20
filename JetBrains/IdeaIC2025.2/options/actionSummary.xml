@@ -7,13 +7,13 @@
       <i c="3" l="1761108402885" />
     </e>
     <e n="$SelectAll">
-      <i c="3" l="1761107421916" />
+      <i c="4" l="1762472060977" />
     </e>
     <e n="$Undo">
-      <i c="4" l="1761264245633" />
+      <i c="9" l="1762475048058" />
     </e>
     <e n="AutoIndentLines">
-      <i c="11" l="1761267579901" />
+      <i c="12" l="1762672916399" />
     </e>
     <e n="ChooseRunConfiguration">
       <i c="2" l="1761101224359" />
@@ -22,19 +22,19 @@
       <i c="1" l="1760657050095" />
     </e>
     <e n="Debug">
-      <i c="2" l="1760657040039" />
+      <i c="3" l="1762672641350" />
     </e>
     <e n="DeleteRunConfiguration">
       <i c="1" l="1761263330212" />
     </e>
     <e n="EditorBackSpace">
-      <i c="211" l="1761264923743" />
+      <i c="212" l="1762472061261" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="6" l="1761095522106" />
     </e>
     <e n="EditorCopy">
-      <i c="2" l="1760865325709" />
+      <i c="5" l="1762484266841" />
     </e>
     <e n="EditorDeleteToWordStart">
       <i c="4" l="1761264183251" />
@@ -46,7 +46,7 @@
       <i c="17" l="1761267588596" />
     </e>
     <e n="EditorEscape">
-      <i c="67" l="1761267944785" />
+      <i c="72" l="1762728740494" />
     </e>
     <e n="EditorLeft">
       <i c="4" l="1761107723054" />
@@ -56,6 +56,9 @@
     </e>
     <e n="EditorRight">
       <i c="1" l="1761107722450" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="5" l="1762475045926" />
     </e>
     <e n="EditorTabsEntryPoint">
       <i c="2" l="1761095430060" />
@@ -76,7 +79,7 @@
       <i c="2" l="1761107715133" />
     </e>
     <e n="MoreRunToolbarActions">
-      <i c="5" l="1761264209932" />
+      <i c="6" l="1762819726718" />
     </e>
     <e n="NewClass">
       <i c="2" l="1761107665439" />
@@ -97,13 +100,13 @@
       <i c="1" l="1761095408515" />
     </e>
     <e n="OpenFile">
-      <i c="4" l="1761267557968" />
+      <i c="5" l="1762471808475" />
     </e>
     <e n="PasteMultiple">
       <i c="3" l="1760662409640" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
-      <i c="17" l="1761267628053" />
+      <i c="20" l="1762482592169" />
     </e>
     <e n="ReformatCode">
       <i c="3" l="1761265117874" />
@@ -111,14 +114,17 @@
     <e n="RenameElement">
       <i c="1" l="1761107721042" />
     </e>
+    <e n="Rerun">
+      <i c="259" l="1763195241846" />
+    </e>
     <e n="Run">
-      <i c="40" l="1761268118974" />
+      <i c="65" l="1763331227982" />
     </e>
     <e n="RunAnything">
       <i c="2" l="1761264180728" />
     </e>
     <e n="SaveAll">
-      <i c="36" l="1761267727961" />
+      <i c="37" l="1762672924015" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="5" l="1761263595612" />
@@ -127,10 +133,16 @@
       <i c="1" l="1760657043894" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="23" l="1761267608290" />
+      <i c="25" l="1762672767635" />
     </e>
     <e n="ShowSettings">
       <i c="4" l="1761263597523" />
+    </e>
+    <e n="Stop">
+      <i c="1" l="1762819725477" />
+    </e>
+    <e n="Switcher">
+      <i c="13" l="1762672902138" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="7" l="1761108614580" />
@@ -140,6 +152,9 @@
     </e>
     <e n="Vcs.UpdateProject">
       <i c="1" l="1760662621789" />
+    </e>
+    <e n="ViewSource">
+      <i c="2" l="1762474861152" />
     </e>
     <e n="WelcomeScreen.OpenProject">
       <i c="1" l="1760656081426" />
@@ -154,7 +169,10 @@
       <i c="1" l="1760865076994" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="222" l="1761268114129" />
+      <i c="231" l="1762729137809" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction">
+      <i c="8" l="1762672902750" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
       <i c="8" l="1761265136052" />
@@ -166,19 +184,19 @@
       <i c="7" l="1761264188952" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="14" l="1761300142679" />
+      <i c="16" l="1763335905640" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="13" l="1761263961820" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="16" l="1761263441073" />
+      <i c="17" l="1762471802966" />
     </e>
     <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
       <i c="2" l="1760656280688" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="3" l="1761267773188" />
+      <i c="5" l="1762487438798" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="1" l="1760656495422" />
@@ -187,7 +205,7 @@
       <i c="3" l="1761107411116" />
     </e>
     <e n="editRunConfigurations">
-      <i c="6" l="1761267629730" />
+      <i c="7" l="1762471993385" />
     </e>
   </component>
 </application>

@@ -9,10 +9,13 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "7",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "8",
     "MarketplacePluginsSearchHistory": "catppuc\ncatpp\ncatp\nv",
     "NewProjectWizard.generateOnboardingTips": "true",
     "NewProjectWizard.groupIdState": "org.example",
+    "NextRunPlatformUpdateBuild": "IC-252.27397.103",
+    "NextRunPlatformUpdateSelfBuild": "IC-252.26830.84",
+    "NextRunPlatformUpdateVersion": "2025.2.4",
     "PluginConfigurable.selectionTab": "1",
     "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
     "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
@@ -27,6 +30,7 @@
     "com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor": "Sources",
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
+    "evaluation.feedback.enabled": "false",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "252.26830.84",
     "fileTypeChangedCounter": "1",
@@ -49,6 +53,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/burrs/Repositories/School/programming/2Sem/04test",
       "/home/burrs/Repositories/School/programming/2Sem/29lesson/NotSure",
       "/home/burrs/Repositories/School/programming/2Sem/29lesson",
       "/home/burrs/Repositories/School/programming/2Sem/26lesson",

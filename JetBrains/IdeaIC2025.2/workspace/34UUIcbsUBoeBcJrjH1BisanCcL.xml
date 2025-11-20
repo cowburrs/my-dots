@@ -7,37 +7,37 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf ideFingerprint="3tl6iibnf9t3m">
+    <leaf ideFingerprint="3tl6iibnf9t3m" SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/example/JavaFXIntro.java" file-id="173383" managing-fs="1760656060288">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="538">
-              <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+            <state relative-caret-position="394">
+              <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#2070#2071#0" expanded="true" />
-                <element signature="e#2098#2099#0" expanded="true" />
+                <element signature="e#1436#1437#0" expanded="true" />
+                <element signature="e#1464#1465#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"JavaFXIntro.java","foregroundColor":-1991559,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"e19c79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"JavaFXIntro.java","foregroundColor":-3484683,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
       </file>
     </leaf>
   </component>
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 1,
-      "lastUsed": 1761267577431
+      "usageCount": 2,
+      "lastUsed": 1762471329542
     }
   }
 }]]></component>
-  <component name="IdeDocumentHistory"><![CDATA[{
-  "changedPaths": [
-    "/home/burrs/Repositories/School/programming/2Sem/29lesson/NotSure/src/main/java/org/example/JavaFXIntro.java"
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/burrs/Repositories/School/programming/2Sem/29lesson/NotSure/src/main/java/org/example/JavaFXIntro.java&quot;
   ]
-}]]></component>
+}</component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
       <set>
@@ -47,7 +47,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="1" lastUsage="1761267577433" />
+      <summary usageCount="2" lastUsage="1762471329549" />
     </language>
   </component>
   <component name="MavenProjectNavigator">
@@ -258,32 +258,36 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="560" y="191" width="902" height="647" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1761267641973" />
-    <state width="1838" height="297" key="GridCell.Tab.0.bottom" timestamp="1761300142829">
+    <state x="662" y="273" key="FileChooserDialogImpl" timestamp="1762471828325">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1761300142829" />
-    <state width="1838" height="297" key="GridCell.Tab.0.center" timestamp="1761300142829">
+    <state x="662" y="273" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1762471828325" />
+    <state width="1838" height="297" key="GridCell.Tab.0.bottom" timestamp="1762471834248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1761300142829" />
-    <state width="1838" height="297" key="GridCell.Tab.0.left" timestamp="1761300142828">
+    <state width="1838" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1762471834248" />
+    <state width="1838" height="297" key="GridCell.Tab.0.center" timestamp="1762471834248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1761300142828" />
-    <state width="1838" height="297" key="GridCell.Tab.0.right" timestamp="1761300142829">
+    <state width="1838" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1762471834248" />
+    <state width="1838" height="297" key="GridCell.Tab.0.left" timestamp="1762471834248">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1838" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1761300142829" />
+    <state width="1838" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1762471834248" />
+    <state width="1838" height="297" key="GridCell.Tab.0.right" timestamp="1762471834248">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1762471834248" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/org/example/JavaFXIntro.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="538">
-          <caret line="34" column="33" selection-start-line="34" selection-start-column="33" selection-end-line="34" selection-end-column="33" />
+        <state relative-caret-position="394">
+          <caret line="26" column="30" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2070#2071#0" expanded="true" />
-            <element signature="e#2098#2099#0" expanded="true" />
+            <element signature="e#1436#1437#0" expanded="true" />
+            <element signature="e#1464#1465#0" expanded="true" />
           </folding>
         </state>
       </provider>
