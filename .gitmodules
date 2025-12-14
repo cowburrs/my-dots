@@ -1,0 +1,3 @@
+[submodule "bashrc/plugins/tab-completion"]
+	path = bashrc/plugins/tab-completion
+	url = https://github.com/lincheney/fzf-tab-completion
