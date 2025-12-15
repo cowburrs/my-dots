@@ -42,7 +42,7 @@ RED="0;31m"
 GREEN="0;33m"
 
 # save current directory to bookmarks
-function s {
+function sb {
     check_help $1
     _bookmark_name_valid "$@"
     if [ -z "$exit_message" ]; then
@@ -75,7 +75,7 @@ function p {
 }
 
 # delete bookmark
-function d {
+function db {
     check_help $1
     _bookmark_name_valid "$@"
     if [ -z "$exit_message" ]; then
@@ -88,11 +88,11 @@ function d {
 function check_help {
     if [ "$1" = "-h" ] || [ "$1" = "-help" ] || [ "$1" = "--help" ] ; then
         echo ''
-        echo 's <bookmark_name> - Saves the current directory as "bookmark_name"'
+        echo 'sb <bookmark_name> - Saves the current directory as "bookmark_name"'
         echo 'g <bookmark_name> - Goes (cd) to the directory associated with "bookmark_name"'
         echo 'p <bookmark_name> - Prints the directory associated with "bookmark_name"'
-        echo 'd <bookmark_name> - Deletes the bookmark'
-        echo 'l                 - Lists all available bookmarks'
+        echo 'db <bookmark_name> - Deletes the bookmark'
+        echo 'lb                 - Lists all available bookmarks'
         kill -SIGINT $$
     fi
 }
@@ -145,14 +145,14 @@ function _purge_line {
     if [ -s "$1" ]; then
         # safely create a temp file
         t=$(mktemp -t bashmarks.XXXXXX) || exit 1
-        trap "/bin/rm -f -- '$t'" EXIT
+        trap "rm -f -- '$t'" EXIT
 
         # purge line
         sed "/$2/d" "$1" > "$t"
-        /bin/mv "$t" "$1"
+        mv "$t" "$1"
 
         # cleanup temp file
-        /bin/rm -f -- "$t"
+        rm -f -- "$t"
         trap - EXIT
     fi
 }

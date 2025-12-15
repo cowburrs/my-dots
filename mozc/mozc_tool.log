@@ -1,0 +1,9 @@
+W1215 01:04:26.439417   22086 debug_util.cc:49] Could not find the Qt platform plugin "wayland" in ""
+F1215 01:04:26.439523   22086 debug_util.cc:55] This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: offscreen, eglfs, minimalegl, minimal, xcb, linuxfb, vnc, vkkhrdisplay.
+
+F1215 01:04:26.439523   22086 debug_util.cc:55] This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.
+
+Available platform plugins are: offscreen, eglfs, minimalegl, minimal, xcb, linuxfb, vnc, vkkhrdisplay.
+
